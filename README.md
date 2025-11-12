@@ -1,7 +1,7 @@
 # 🎮 3D 'Game-Like' Portfolio Website
 
 🚀 **An immersive 3D portfolio experience built with Three.js, React Three Fiber, and WebGL.**  
-🔗 **Live Demo:** [home](https://toshihito-endo.com/)  
+🔗 **Live Demo:** [home](https://www.game-like-portfolio.com/)  
 📖 **Case Study:** [project page](https://toshihito-endo.com/portfolio-website)
 
 ---
