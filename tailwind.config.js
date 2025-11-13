@@ -25,6 +25,8 @@ export default {
         'pinyon-script': ['"Pinyon Script", cursive'],
         'montserrat': ['"Montserrat", sans-serif'],
         'dm-serif-display': ['"DM Serif Display", serif'],
+        'josefin-sans': ['"Josefin Sans", sans-serif'],
+        'inter': ['"Inter", sans-serif'],
       }
     },
   },

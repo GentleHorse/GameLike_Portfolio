@@ -9,7 +9,7 @@ import { useKeyboard } from "../../../hooks/useKeyboard.js";
 /**
  * INITIAL CHARACTER / CAMERA POSITION
  */
-const INITIAL_POSITION = [0, 1.65, 0];
+const INITIAL_POSITION = [0, 1.25, 0];
 
 /**
  * INITIAL PARAMS
@@ -18,7 +18,7 @@ const MOVE_STRENGTH = 3.0;
 const MOVE_VELOCITY = 2.0;
 const MAX_MOVE_VELOCITY = 4.5;
 const INITIAL_CHARACTER_POSITION = INITIAL_POSITION;
-const INITIAL_CAMERA_POSITION = { x: 0, y: 2.0, z: 0 };
+const INITIAL_CAMERA_POSITION = { x: 0, y: 1.7, z: 0 };
 
 /**
  * EXPORT - PLAYER CONTROL

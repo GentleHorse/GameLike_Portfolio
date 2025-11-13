@@ -1,7 +1,7 @@
 import { Canvas } from "@react-three/fiber";
 import { Leva } from "leva";
 import { isBrowser, isMobile } from "react-device-detect";
-import Menu from "../components/menu/Menu.jsx";
+import Menu from "../components/menu/MenuV2.jsx";
 import Experience from "../components/Experience.jsx";
 import MobileExperience from "../components/mobileExperience/MobileExperience.jsx";
 import HowToControl from "../components/UI/HowToControl.jsx";
@@ -44,9 +44,6 @@ export default function HomePage() {
         <>
           {/* The menu for the player control */}
           {gameState !== gameStates.LOADING && <Menu />}
-
-          {/* Instruction of how to control the player */}
-          {gameState === "PLAY" && <HowToControl />}
 
           <div
             style={{
