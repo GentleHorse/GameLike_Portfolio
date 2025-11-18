@@ -4,7 +4,6 @@ import { isBrowser, isMobile } from "react-device-detect";
 import Menu from "../components/menu/MenuV2.jsx";
 import Experience from "../components/Experience.jsx";
 import MobileExperience from "../components/mobileExperience/MobileExperience.jsx";
-import HowToControl from "../components/UI/HowToControl.jsx";
 import { gameStates, useGameStore } from "../store/store.js";
 import { Suspense } from "react";
 import { Preload, KeyboardControls } from "@react-three/drei";

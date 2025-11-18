@@ -28,7 +28,7 @@ export default function Header({ home, about, works, contact }) {
         {!!isBrowser && (
           <div className="w-full flex justify-between">
             <Link
-              to="/works"
+              to="/"
               reloadDocument={true}
               className="pl-12 hover:cursor-pointer"
             >
